@@ -1,0 +1,10 @@
+^C:\USERS\CHARL\DESKTOP\XCUBE\CMAKELISTS.TXT
+setlocal
+C:\Users\Charl\Desktop\cmake\bin\cmake.exe -SC:/Users/Charl/Desktop/xcube -BC:/Users/Charl/Desktop/xcube --check-stamp-file C:/Users/Charl/Desktop/xcube/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

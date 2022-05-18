@@ -1,0 +1,174 @@
+﻿  Main.cpp
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(42,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(43,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(48,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(49,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,33): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,33): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,36): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,36): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  MyGame.cpp
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(42,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(43,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(48,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(49,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,33): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,33): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,36): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,36): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  AbstractGame.cpp
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(42,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(43,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(48,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(49,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,33): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,33): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,36): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,36): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  XCube2d.cpp
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(42,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(43,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(48,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(49,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,33): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,33): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,36): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,36): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  MyEngineSystem.cpp
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(42,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(43,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(48,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(49,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,33): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,33): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,36): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,36): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Enemy.cpp
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(42,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(43,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(48,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(49,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,33): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,33): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,36): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,36): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Player.cpp
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(42,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(43,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(48,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(49,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,33): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,33): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,36): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(96,36): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\GameMath.h(114,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+src\demo\Player.cpp(28,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+src\demo\Player.cpp(32,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+src\demo\Player.cpp(36,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+src\demo\Player.cpp(40,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Entity.cpp
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(42,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(43,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(48,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(49,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,33): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,33): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,36): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(96,36): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Charl\Desktop\xcube\src\engine\custom\../GameMath.h(114,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  MyGame.vcxproj -> C:\Users\Charl\Desktop\xcube\Debug\MyGame.exe
